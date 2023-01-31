@@ -1822,10 +1822,10 @@ label {
   }
   .box-12 p,
   .box-12 a {
-    font-size: 13px;
+    font-size: 10px;
   }
   .box-12 a {
-    margin: auto !important;
+    margin: auto 4px auto auto !important;
   }
 }
 @media (max-width: 360px) {
