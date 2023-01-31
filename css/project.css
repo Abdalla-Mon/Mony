@@ -1824,6 +1824,9 @@ label {
   .box-12 a {
     font-size: 13px;
   }
+  .box-12 a {
+    margin: auto !important;
+  }
 }
 @media (max-width: 360px) {
   .dashboard .dash-search {
