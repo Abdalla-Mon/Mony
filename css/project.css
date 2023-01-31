@@ -1816,6 +1816,15 @@ label {
     width: 100%;
   }
 }
+@media (max-width: 400px) {
+  .box-12-icon {
+    margin-right: 5px;
+  }
+  .box-12 p,
+  .box-12 a {
+    font-size: 13px;
+  }
+}
 @media (max-width: 360px) {
   .dashboard .dash-search {
     width: 130px;
